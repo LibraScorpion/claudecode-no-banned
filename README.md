@@ -25,6 +25,13 @@ Claude 突然打不开，很多人的第一反应就是封号。接着去搜“C
 
 这几个问题里，只有第四种可以直接称为账号被封。网页转圈、回答中断或者 Claude Code 连接失败，先查服务状态和网络。Anthropic 自己也有故障，没必要每次报错都给账号办后事。
 
+Claude AI 账号使用全套环境
+Claude 网络 · 支付 · 认证，一站式专业服务，海外团队一对一支持 -------------Claude账号，Codex账号，100%不封号，加微信LibraS19831023
+https://aiaccountenv.com/
+<img width="414" height="412" alt="个人微信二维码" src="https://github.com/user-attachments/assets/5523208e-3398-4c88-ae8b-ef0a095be2d1" />
+
+
+
 ## Persona 验证到底在验证什么
 
 [Anthropic 在 2026 年 6 月 17 日发布的说明](https://support.claude.com/en/articles/14328960-identity-verification-on-claude)写得很清楚。Persona 身份验证会出现在部分功能、例行平台完整性检查，以及其他安全或合规场景中。官方没有公布触发分数，也没有写切换几次 IP、什么时间登录就一定触发。
